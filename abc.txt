@@ -1,2 +1,7 @@
 new text file
 This is a new feature!
+
+
+
+Adding a new line in NewBranch
+
